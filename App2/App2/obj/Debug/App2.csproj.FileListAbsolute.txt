@@ -1,0 +1,15 @@
+C:\Users\sahvi\source\repos\App2\App2\obj\Debug\App2.csprojAssemblyReference.cache
+C:\Users\sahvi\source\repos\App2\App2\obj\Debug\MainWindow.g.cs
+C:\Users\sahvi\source\repos\App2\App2\obj\Debug\App.g.cs
+C:\Users\sahvi\source\repos\App2\App2\obj\Debug\App2_MarkupCompile.cache
+C:\Users\sahvi\source\repos\App2\App2\obj\Debug\App2_MarkupCompile.lref
+C:\Users\sahvi\source\repos\App2\App2\bin\Debug\App2.exe.config
+C:\Users\sahvi\source\repos\App2\App2\bin\Debug\App2.exe
+C:\Users\sahvi\source\repos\App2\App2\bin\Debug\App2.pdb
+C:\Users\sahvi\source\repos\App2\App2\obj\Debug\MainWindow.baml
+C:\Users\sahvi\source\repos\App2\App2\obj\Debug\App2.g.resources
+C:\Users\sahvi\source\repos\App2\App2\obj\Debug\App2.Properties.Resources.resources
+C:\Users\sahvi\source\repos\App2\App2\obj\Debug\App2.csproj.GenerateResource.cache
+C:\Users\sahvi\source\repos\App2\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\sahvi\source\repos\App2\App2\obj\Debug\App2.exe
+C:\Users\sahvi\source\repos\App2\App2\obj\Debug\App2.pdb
